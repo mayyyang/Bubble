@@ -35,8 +35,8 @@
 
 //parse config
 
-#define appIdparse               @"tldA69IsLkQgnOh8ElHxoLy3vtPTAXUzpWAspGFi"
-#define appKeyparse              @"4gsK7hSxogtkqLRM1t0wrck23YU8kg1QkR2bFWn8"
+#define appIdparse               @"25F42VBCYPYiPSvlZLjjQRWg9ECS982q1O1wESdI"
+#define appKeyparse              @"T5LzlCu4QivxonZq32j7cROwNGiXibjS4gwu6FBl"
 
 
 
