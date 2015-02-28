@@ -1303,7 +1303,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = speeddate;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "61cb154b-6058-46ef-bde2-6a5d79fbb432";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1328,7 +1328,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = speeddate;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "61cb154b-6058-46ef-bde2-6a5d79fbb432";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
